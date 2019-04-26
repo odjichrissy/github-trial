@@ -68,10 +68,10 @@ $ python3 app.py
 ```
 
 No. | Nama  | Job
--   |  -    |   -
-1. | Andi   | Sales
-2. | Budi   | Marketing
-3. | Saya   | Programmer
+---  |  ---  |   ---
+1 | Andi   | Sales
+2 | Budi   | Marketing
+3 | Saya   | Programmer
 
 
 
